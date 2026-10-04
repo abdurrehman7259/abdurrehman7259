@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdur%20Rehman%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=58&descSize=20&descColor=a8d8ea)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C8EBB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Development+%7C+Networking+%7C+Cybersecurity;C%2B%2B+%7C+Python+%7C+SQL+%7C+Next.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C8EBB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Development+%7C+Networking+%7C+Cybersecurity;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+SQL)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rehman%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-khan-4b4baa328/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ARK.SEC-1a1a2e?style=for-the-badge&logo=safari&logoColor=white)](https://abdur-rehman-khan-portfolio.vercel.app)
@@ -30,7 +30,7 @@ I haven't picked one path yet. Right now I'm interested in software engineering,
 ┌──────────────────────────────────────────────────────────────────────┐
 │                               TOOLKIT                                │
 ├──────────────────────────────────────────────────────────────────────┤
-│  Programming:    C · C++ · Python · Bash · TypeScript                │
+│  Programming:    C++ · Python · JavaScript · C · Bash                │
 │  Web Dev:        Next.js · React · Tailwind CSS · HTML/CSS/JS        │
 │  Databases:      SQL                                                 │
 │  Foundations:    DSA · OOP · Linux · Computer Networks               │
@@ -47,12 +47,11 @@ I haven't picked one path yet. Right now I'm interested in software engineering,
 
 ### ⚡ Languages
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🌐 Web Development
 
@@ -90,7 +89,7 @@ I haven't picked one path yet. Right now I'm interested in software engineering,
 | Area | What I Use |
 | --- | --- |
 | **CS Fundamentals** | Data structures & algorithms, OOP, Linux, computer networks |
-| **Programming** | C, C++, Python, socket programming |
+| **Programming** | C++, Python, JavaScript, C, socket programming |
 | **Web Development** | HTML, CSS, JavaScript, jQuery, React, Next.js, Tailwind CSS |
 | **Databases** | SQL |
 | **Security Tools** | Burp Suite for web requests, Nmap for scanning, Wireshark for traffic, John the Ripper for hashes |
@@ -146,9 +145,9 @@ I haven't picked one path yet. Right now I'm interested in software engineering,
 
 <div align="center">
 
-Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=abdurrehman7259&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/abdurrehman7259)
 
-GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdurrehman7259&theme=tokyonight)](https://github.com/abdurrehman7259)
 
 </div>
 
