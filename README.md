@@ -146,10 +146,9 @@ I haven't picked one path yet. Right now I'm interested in software engineering,
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=abdurrehman7259&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/abdurrehman7259)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrehman7259&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/abdurrehman7259)
+Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdurrehman7259&theme=tokyonight)](https://github.com/abdurrehman7259)
+GitHub Streak
 
 </div>
 
