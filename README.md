@@ -19,7 +19,7 @@ A browser game for children aged 7–12: run a Moon or Mars base for 10 days whi
 - Child-safe: no accounts, cookies or tracking; live data fetched through our own server, so no player's IP reaches a third party
 - Gated pipeline: file ownership per agent, written briefs, four time-boxed gates, a usability sprint and a security audit with every finding fixed
 
-`React` `TypeScript` `Vite` `Zod` `NASA DONKI API` `Serverless functions`
+`Next.js` `React` `JavaScript` `Zod` `NASA DONKI API` `Serverless functions`
 
 **Unsak Digital Companion** · *Student digital well-being app* · [Live](https://unsak.vercel.app)
 A mobile-first app that helps students build better phone habits. Solo project, from Design Thinking research to launch.
@@ -35,18 +35,23 @@ Personal site and blog, built to the same launch checklist I use for every proje
 - Blog rendered on the server: visitors' browsers never load Firebase (no cookies, no storage, nothing sent to Google)
 - Security headers on every route; zero automated accessibility violations (WCAG 2.1 AA); verified backups
 
-`Next.js` `TypeScript` `Tailwind CSS` `Firebase`
+`Next.js` `React` `JavaScript` `Tailwind CSS` `Firebase`
+
+**Tangoline** · *Aptech Learning · outstanding Web Designing project of the month, January 2022*
+A responsive e-commerce website for computer equipment and gaming products, with side-by-side product comparison and detailed specifications.
+
+`HTML` `CSS` `JavaScript` `jQuery`
 
 ---
 
 ### How I work
 
-1. **Specify** – requirements, product spec and user stories with IDs; decisions go in a log
-2. **Plan** – a planning agent splits each story into parts, each with an owner and a list of files
-3. **Build** – builder agents work from written briefs, only in the files they own
-4. **Review** – every change is reviewed against the story and the standards; rejected work goes back with a fix brief
-5. **Test and audit** – tests, accessibility, device and OWASP security checks run as blocking gates
-6. **Merge** – only after the QA gate passes; sensitive changes wait for my sign-off
+1. **Specify**: requirements, product spec and user stories with IDs; decisions go in a log
+2. **Plan**: a planning agent splits each story into parts, each with an owner and a list of files
+3. **Build**: builder agents work from written briefs, only in the files they own
+4. **Review**: every change is reviewed against the story and the standards; rejected work goes back with a fix brief
+5. **Test and audit**: tests, accessibility, device and OWASP security checks run as blocking gates
+6. **Merge**: only after the QA gate passes; sensitive changes wait for my sign-off
 
 ---
 
@@ -56,9 +61,9 @@ Personal site and blog, built to the same launch checklist I use for every proje
 | --- | --- |
 | Agentic AI | AI coding agents, multi-agent orchestration, sub-agents, skills and hooks, model and effort routing, generative AI |
 | Process | Requirement gathering, user stories, sprints and gates, spec docs and ADRs, Definition of Done, code review, CI pipelines, Git and GitHub |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS, JavaScript, PWA |
+| Frontend | React, Next.js, JavaScript, Tailwind CSS, HTML & CSS, PWA |
 | Backend and data | Node.js, Express, PostgreSQL, Supabase, Firebase, Socket.io |
-| Languages | TypeScript, JavaScript, Python, C++, C, SQL |
+| Languages | JavaScript, Python, C++, C, SQL |
 | Security | OWASP Top 10, security headers and CSP, access rules and RLS, dependency audits, Burp Suite, Nmap, Wireshark |
 
 ---
@@ -66,5 +71,8 @@ Personal site and blog, built to the same launch checklist I use for every proje
 ### Education and certificates
 
 - **BS Computer Science**, GU-Tech (2026 – present)
-- Cybersecurity & Ethical Hacking, *NED Academy*
-- Web Development, *Aptech Learning*
+- **Cyber Security & Ethical Hacking**, Certificate of Competence, *NED Academy · PITP, Government of Sindh* (2026)
+- **Coders Cup 2024, Finalist**: ACM interuniversity speed programming competition, *ACM NUCES Karachi*
+- **Certificate of Appreciation**, outstanding Web Designing project of the month (Tangoline), *Aptech Learning* (2022)
+
+Certificates can be viewed on my [portfolio](https://abdur-rehman-khan-portfolio.vercel.app/#education).
