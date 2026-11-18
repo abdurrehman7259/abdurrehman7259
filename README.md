@@ -21,7 +21,7 @@ A browser game for children aged 7–12: run a Moon or Mars base for 10 days whi
 
 `Next.js` `React` `JavaScript` `Zod` `NASA DONKI API` `Serverless functions`
 
-**Unsak Digital Companion** · *Student digital well-being app* · [Live](https://unsak.vercel.app)
+**Unsak Digital Companion** · *Student digital well-being app* · [Live](https://unsak.vercel.app) · [Code](https://github.com/abdurrehman7259/Unsak)
 A mobile-first app that helps students build better phone habits. Solo project, from Design Thinking research to launch.
 - Features came from user interviews and journey maps
 - Privacy by design: personal data stays on the phone; export and account deletion that only acts on the user's own account
