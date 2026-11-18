@@ -2,7 +2,7 @@
 
 **Computer Science Student · Agentic Software Development · Karachi, Pakistan**
 
-I build real products with AI agents, organised like a small engineering team. I write the specs and user stories, then direct Claude Code and Codex agents through planning, building, review, testing and security checks.
+I build real products with AI agents, organised like a small engineering team. I gather the requirements, write the user stories, and run AI coding agents through a pipeline of planning, building, review, testing and security checks.
 
 Recent work: a NASA Space Apps game built on real solar-storm data, and Unsak, a live offline-first app for students.
 
@@ -13,27 +13,38 @@ Recent work: a NASA Space Apps game built on real solar-storm data, and Unsak, a
 ### Projects
 
 **Moon Base Cadets** · *NASA Space Apps Challenge 2026*
-A browser game for children aged 7–12: run a Moon or Mars base while real solar flares and storms from NASA's DONKI records hit it. I was product owner and game designer in a three-person team; Claude Code was tech lead and Codex was backend engineer, with written file ownership, task briefs and four time-boxed gates.
-`React` `TypeScript` `Vite` `Zod` `NASA DONKI API`
+A browser game for children aged 7–12: run a Moon or Mars base for 10 days while real solar flares and storms from NASA's records hit it. Product owner, game designer and pitch lead in a three-person team.
+- Designed the core mechanic: share 10 power units a day across life support, shields and science
+- Real NASA data with sources; archived data labelled; every science fact linked
+- Child-safe: no accounts, cookies or tracking; live data fetched through our own server, so no player's IP reaches a third party
+- Gated pipeline: file ownership per agent, written briefs, four time-boxed gates, a usability sprint and a security audit with every finding fixed
+
+`React` `TypeScript` `Vite` `Zod` `NASA DONKI API` `Serverless functions`
 
 **Unsak Digital Companion** · *Student digital well-being app* · [Live](https://unsak.vercel.app)
-A mobile-first app with a 30-day challenge, a bedtime wind-down, a scam-message check and people to talk to. Started as a Design Thinking course project; Claude wrote the module contract and Codex built the modules in parallel. Works offline and keeps personal data on the device.
-`JavaScript` `PWA` `Supabase Auth`
+A mobile-first app that helps students build better phone habits. Solo project, from Design Thinking research to launch.
+- Features came from user interviews and journey maps
+- Privacy by design: personal data stays on the phone; export and account deletion that only acts on the user's own account
+- Privacy and terms page written from what the code does, with tests that fail if the two drift apart
+- Security headers, a strict content policy and 170+ automated tests; works offline
 
-**Portfolio** · [Live](https://abdur-rehman-khan-portfolio.vercel.app) · [Code](https://github.com/abdurrehman7259/Abdur-Rehman-Khan-Portfolio)
-Personal site with an admin-only blog.
+`JavaScript` `PWA` `Service worker` `Supabase Auth`
+
+**This portfolio** · [Live](https://abdur-rehman-khan-portfolio.vercel.app) · [Code](https://github.com/abdurrehman7259/Abdur-Rehman-Khan-Portfolio)
+Personal site and blog, built to the same launch checklist I use for every project.
+- Blog rendered on the server: visitors' browsers never load Firebase (no cookies, no storage, nothing sent to Google)
+- Security headers on every route; zero automated accessibility violations (WCAG 2.1 AA); verified backups
+
 `Next.js` `TypeScript` `Tailwind CSS` `Firebase`
-
-Moon Base Cadets and Unsak are in private repositories.
 
 ---
 
 ### How I work
 
-1. **Specify** – product spec, requirements and user stories with IDs; decisions go in a log
-2. **Plan** – the tech-lead agent splits a story into parts, each with an owner and a list of files
-3. **Build** – Codex and other builder agents work from written briefs, only in the files they own
-4. **Review** – Claude reviews every diff; rejected work goes back with a fix brief
+1. **Specify** – requirements, product spec and user stories with IDs; decisions go in a log
+2. **Plan** – a planning agent splits each story into parts, each with an owner and a list of files
+3. **Build** – builder agents work from written briefs, only in the files they own
+4. **Review** – every change is reviewed against the story and the standards; rejected work goes back with a fix brief
 5. **Test and audit** – tests, accessibility, device and OWASP security checks run as blocking gates
 6. **Merge** – only after the QA gate passes; sensitive changes wait for my sign-off
 
@@ -43,18 +54,17 @@ Moon Base Cadets and Unsak are in private repositories.
 
 | Area | Tools and methods |
 | --- | --- |
-| Agentic AI | Claude Code (sub-agents, skills, hooks), Codex CLI, multi-agent orchestration, model and effort routing |
-| Process | User stories, sprints and gates, spec docs and ADRs, Definition of Done, code review, Git and GitHub |
+| Agentic AI | AI coding agents, multi-agent orchestration, sub-agents, skills and hooks, model and effort routing, generative AI |
+| Process | Requirement gathering, user stories, sprints and gates, spec docs and ADRs, Definition of Done, code review, CI pipelines, Git and GitHub |
 | Frontend | React, Next.js, TypeScript, Tailwind CSS, JavaScript, PWA |
 | Backend and data | Node.js, Express, PostgreSQL, Supabase, Firebase, Socket.io |
 | Languages | TypeScript, JavaScript, Python, C++, C, SQL |
-| Security | OWASP Top 10, Burp Suite, Nmap, Wireshark, Kali Linux |
+| Security | OWASP Top 10, security headers and CSP, access rules and RLS, dependency audits, Burp Suite, Nmap, Wireshark |
 
 ---
 
 ### Education and certificates
 
 - **BS Computer Science**, GU-Tech (2026 – present)
-- **FSc Pre-Engineering**, Govt. Delhi College (2021 – 2023)
 - Cybersecurity & Ethical Hacking, *NED Academy*
 - Web Development, *Aptech Learning*
