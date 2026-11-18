@@ -12,7 +12,7 @@ Recent work: a NASA Space Apps game built on real solar-storm data, and Unsak, a
 
 ### Projects
 
-**Moon Base Cadets** · *NASA Space Apps Challenge 2026*
+**Moon Base Cadets** · *NASA Space Apps Challenge 2026* · [Live](https://junior-astronaut-mission-trainer-eight.vercel.app)
 A browser game for children aged 7–12: run a Moon or Mars base for 10 days while real solar flares and storms from NASA's records hit it. Product owner, game designer and pitch lead in a three-person team.
 - Designed the core mechanic: share 10 power units a day across life support, shields and science
 - Real NASA data with sources; archived data labelled; every science fact linked
