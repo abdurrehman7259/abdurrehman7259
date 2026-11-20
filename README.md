@@ -45,8 +45,8 @@ Security and privacy are part of that pipeline, not an afterthought: access rule
 │  Task briefs    │  Model routing  │  Privacy check  │  Live checks    │
 ├─────────────────┴─────────────────┴─────────────────┴─────────────────┤
 │   BUILT WITH                                                          │
-│   Frontend:  Next.js · React · Tailwind CSS · Progressive Web Apps    │
-│   Backend:   Node.js · Express · Socket.io · Serverless functions     │
+│   Frontend:  Next.js · React · Tailwind CSS · HTML & CSS              │
+│   Backend:   Node.js · Express · Serverless functions                 │
 │   Data:      PostgreSQL · Supabase · Firebase                         │
 │   Security:  CSP & headers · RLS · Burp Suite · Nmap · Wireshark      │
 └───────────────────────────────────────────────────────────────────────┘
@@ -87,14 +87,12 @@ Security and privacy are part of that pipeline, not an afterthought: access rule
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
 </p>
 
 ### 🔧 Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
@@ -126,8 +124,8 @@ Security and privacy are part of that pipeline, not an afterthought: access rule
 
 | Project | What it is | Built with |
 |---|---|---|
-| **Moon Base Cadets**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://junior-astronaut-mission-trainer-eight.vercel.app) | NASA Space Apps Challenge 2026. A browser game for children aged 7–12: run a Moon or Mars base for 10 days while real NASA solar flares and storms hit it. Product owner, game designer and pitch lead in a three-person team. | Next.js · React · JavaScript · Zod · NASA DONKI API |
-| **Unsak Digital Companion**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://unsak.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Unsak) | Offline-first app that helps students build better phone habits. Solo project from Design Thinking research to launch; personal data stays on the phone, 170+ automated tests. | JavaScript · PWA · Service worker · Supabase Auth |
+| **Moon Base Cadets**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://junior-astronaut-mission-trainer-eight.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Junior-Astronaut-Mission-Trainer-) | NASA Space Apps Challenge 2026. A browser game for children aged 7–12: run a Moon or Mars base for 10 days while real NASA solar flares and storms hit it. Product owner, game designer and pitch lead in a three-person team. | Next.js · React · JavaScript · Zod · NASA DONKI API |
+| **Unsak Digital Companion**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://unsak.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Unsak) | Offline-first app that helps students build better phone habits. Solo project from Design Thinking research to launch; personal data stays on the phone, 170+ automated tests. | JavaScript · Service worker · Supabase Auth |
 | **Portfolio & Blog**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://abdur-rehman-khan-portfolio.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Abdur-Rehman-Khan-Portfolio) | Server-rendered blog with a private admin area; security headers on every route, zero automated WCAG 2.1 AA violations, verified backups. | Next.js · React · Tailwind CSS · Firebase |
 | **Tangoline** | Responsive e-commerce site for computer and gaming products. Outstanding Web Designing project of the month at Aptech (January 2022). | HTML · CSS · JavaScript · jQuery |
 
