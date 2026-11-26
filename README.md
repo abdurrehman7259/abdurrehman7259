@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdur%20Rehman%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Agentic%20Software%20Development&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdur%20Rehman%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C8EBB&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%7C+Agentic+Software+Development;Requirements+%E2%86%92+User+Stories+%E2%86%92+Gated+Agent+Pipelines;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Security+and+Privacy+by+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C8EBB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Agentic+AI+Workflows;Requirements+%E2%86%92+User+Stories+%E2%86%92+Gated+Agent+Pipelines;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Security+and+Privacy+by+Design)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm a **Computer Science student in Karachi** who builds software the way a small engineering team does.
+I'm a **Full Stack Developer in Karachi**, studying Computer Science at GU-Tech. I build software the way a small engineering team does.
 
 Requirements come first, then user stories, then an **agent workflow** where each agent has a clear role, owns specific files, works from a written brief, and must pass review, tests and security checks before anything merges. My job is to make AI-built code **planned, reviewed and tested**.
 
