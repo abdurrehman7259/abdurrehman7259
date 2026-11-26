@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rehman%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rehman-khan-4b4baa328/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-1a1a2e?style=for-the-badge&logo=safari&logoColor=white)](https://abdur-rehman-khan-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-1a1a2e?style=for-the-badge&logo=safari&logoColor=white)](https://abdurrehmankhan.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donabdurrehman12@gmail.com)
 
 <br/>
@@ -126,7 +126,7 @@ Security and privacy are part of that pipeline, not an afterthought: access rule
 |---|---|---|
 | **Moon Base Cadets**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://junior-astronaut-mission-trainer-eight.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Junior-Astronaut-Mission-Trainer-) | NASA Space Apps Challenge 2026. A browser game for children aged 7–12: run a Moon or Mars base for 10 days while real NASA solar flares and storms hit it. Product owner, game designer and pitch lead in a three-person team. | Next.js · React · JavaScript · Zod · NASA DONKI API |
 | **Unsak Digital Companion**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://unsak.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Unsak) | Offline-first app that helps students build better phone habits. Solo project from Design Thinking research to launch; personal data stays on the phone, 170+ automated tests. | JavaScript · Service worker · Supabase Auth |
-| **Portfolio & Blog**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://abdur-rehman-khan-portfolio.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Abdur-Rehman-Khan-Portfolio) | Server-rendered blog with a private admin area; security headers on every route, zero automated WCAG 2.1 AA violations, verified backups. | Next.js · React · Tailwind CSS · Firebase |
+| **Portfolio & Blog**<br/>[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://abdurrehmankhan.vercel.app) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdurrehman7259/Abdur-Rehman-Khan-Portfolio) | Server-rendered blog with a private admin area; security headers on every route, zero automated WCAG 2.1 AA violations, verified backups. | Next.js · React · Tailwind CSS · Firebase |
 | **Tangoline** | Responsive e-commerce site for computer and gaming products. Outstanding Web Designing project of the month at Aptech (January 2022). | HTML · CSS · JavaScript · jQuery |
 
 ---
@@ -153,7 +153,7 @@ Security and privacy are part of that pipeline, not an afterthought: access rule
 | 🔐 **Cyber Security & Ethical Hacking** | NED Academy · PITP, Government of Sindh (2026) |
 | 🏅 **Certificate of Appreciation** | Aptech Learning, outstanding Web Designing project of the month (2022) |
 
-Certificates can be viewed on my [portfolio](https://abdur-rehman-khan-portfolio.vercel.app/#education).
+Certificates can be viewed on my [portfolio](https://abdurrehmankhan.vercel.app/#education).
 
 ---
 
